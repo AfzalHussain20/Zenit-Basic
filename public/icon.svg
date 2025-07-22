@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="blueGradientFavicon" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3ea8ff" />
+        <stop offset="100%" stop-color="#266bff" />
+      </linearGradient>
+    </defs>
+    <path d="M 15 25 H 80 L 30 80 H 65" 
+          stroke="url(#blueGradientFavicon)" 
+          stroke-width="8" 
+          fill="none" 
+          stroke-linecap="round" 
+          stroke-linejoin="round"/>
+    <circle cx="75" cy="28" r="5" fill="#24b0ff" />
+</svg>
