@@ -1,4 +1,6 @@
 
+"use client";
+
 import SplashScreen from "@/components/SplashScreen";
 
 // This is now a Server Component by default
